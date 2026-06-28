@@ -1,4 +1,15 @@
-<!-- Grid matrix background pattern -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
-  <!-- Dot matrix and responsive lines -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ff003c" stroke-width="0.5" stroke-opacity="0.08" />
+      <circle cx="0" cy="0" r="1.5" fill="#ff003c" fill-opacity="0.25" />
+    </pattern>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.5" fill="#ff003c" fill-opacity="0.1" />
+    </pattern>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="#030205" />
+  <rect width="100%" height="100%" fill="url(#grid)" />
+  <rect width="100%" height="100%" fill="url(#dots)" opacity="0.5" />
 </svg>
