@@ -96,13 +96,6 @@ Hello! I am a passionate **AI Engineer** and AI student. Computer Science & AI S
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="25" /> <code>[GITHUB_TROPHY_CASE]</code>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassanmostafa7sn&theme=cyberpunk&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Hassan Mostafa GitHub Trophies" />
-</div>
-
----
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/High%20Voltage.png" width="25" /> <code>[FEATURED_COMPUTATIONAL_PROJECTS]</code>
 
@@ -233,47 +226,75 @@ Hello! I am a passionate **AI Engineer** and AI student. Computer Science & AI S
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="25" /> <code>[CODING_PHILOSOPHY]</code>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" /> <code>[EDUCATION]</code>
 
-```python
-class CognitiveEngine:
-    def __init__(self):
-        self.motivation = "Build AI systems that amplify human potential"
-        self.code_style = "Elegant, decoupled, resilient, extremely structured"
-        
-    def execute(self, challenge):
-        while not self.solved(challenge):
-            model = self.train_deep_model()
-            system = self.engineer_robust_backend()
-            self.optimize_low_level_tensors()
-        return "Pristine execution completed."
-```
+<table>
+<tr>
+<td width="800">
+
+🎓 **Bachelor of Computer Science & Artificial Intelligence**
+
+**Minia National University**
+
+📍 Minya, Egypt
+
+📅 **2024 – 2027 (Expected)**
+
+### 📚 Relevant Coursework
+
+<table>
+<tr>
+<td valign="top">
+
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Information Retrieval
+- Computer Vision
+
+</td>
+
+<td valign="top">
+
+- Image Processing
+- Data Mining
+- Algorithms
+- Operating Systems
+- Database Systems
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Compass.png" width="25" /> <code>[COGNITIVE_ROADMAP_&_TIMELINE]</code>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> <code>[TRAINING & CERTIFICATIONS]</code>
 
-```mermaid
-gantt
-    title Hassan Mostafa AI & Engineering Timeline (2025-2027)
-    dateFormat  YYYY-MM-DD
-    section Neural Foundations
-    Deep Learning Mastery      :active, dl_mast, 2025-01-01, 2025-08-31
-    PyTorch & TF Architecture  :active, tf_arch, 2025-04-01, 2025-12-31
-    section Advanced Systems
-    Multi-Object Tracking (CV) :active, mot_cv, 2025-09-01, 2026-06-30
-    Large Language Fine-tuning :active, llm_ft, 2026-03-01, 2026-11-30
-    section Production Dev
-    Full Stack Python Systems  :active, py_sys, 2025-06-01, 2026-12-31
-    Adversarial AI Sanbox (Clever Hans) :active, ch_sb, 2026-05-01, 2027-02-28
-```
+| 🎓 Program | 🏢 Organization |
+|------------|-----------------|
+| 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** – AI & Data Science (Microsoft Machine Learning Engineer Track) | Ministry of Communications & Information Technology |
+| 🐍 **ITI – Full Stack Web Development Using Python** (120 Hours) | Information Technology Institute (ITI) |
+| 🌐 **Web Development Training** | SAIT |
 
-#### 📍 CURRENT_LEARNING_FOCUS_NODE
-- 🚀 **Advanced Reinforcement Learning**: Studying PPO, SAC algorithms and custom multi-agent environments.
-- 🚀 **Parameter-Efficient LLM Customization (LoRA)**: Integrating PEFT tools to align foundational models with specific domains.
-- ⚙️ **Low-Level High-Performance CUDA Kernels**: Optimizing matrix operations in C++/CUDA to run natively on tensor cores.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="25" /> <code>[CERTIFIED SKILLS]</code>
+
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 👁️ Computer Vision
+* 💬 Natural Language Processing (NLP)
+* 🌐 Full Stack Python (Django & Flask)
+* ⚙️ MLflow & MLOps Fundamentals
+* ☁️ Microsoft Azure AI Fundamentals
+* 🐍 Python Programming
+* 📊 Data Analysis & Visualization
+* 🔗 REST API Development
 
 ---
+
 
 <div align="center">
   <!-- Cyberpunk Footer SVG  width="830" -->
