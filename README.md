@@ -11,7 +11,8 @@
   <!-- <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=FF003C&center=true&vCenter=true&width=900&lines=Hi,+I'm+Hassan+Mostafa;AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Developer;Full+Stack+Python+Developer"
     alt="Typing SVG" /> -->
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:8B0000,100:FF0000&text=Hassan%20Mostafa&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=60"/>
+    <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:8B0000,100:FF0000&text=Hassan%20Mostafa&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=60"/> -->
+    <img src="assets/api.svg"  alt="Hassan Mostafa Cyberpunk Banner" />
 
 </p>
 
