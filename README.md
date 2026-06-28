@@ -27,10 +27,10 @@
     <a href="mailto:hassanmostafa7sn@gmail.com"">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff003c&labelColor=0d1117" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/hassanmostafa" target="_blank">
+    <a href="https://www.linkedin.com/in/hassan-mostafa-7sn/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff003c&labelColor=0d1117" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/hassanmostafa" target="_blank">
+    <a href="https://github.com/hassanmostafa7sn" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=ff003c&labelColor=0d1117" alt="GitHub" />
     </a>
   </p>
@@ -99,7 +99,7 @@ Hello! I am a passionate **AI Engineer** and AI student. Computer Science & AI S
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="25" /> <code>[GITHUB_TROPHY_CASE]</code>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassanmostafa&theme=cyberpunk&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Hassan Mostafa GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hassanmostafa7sn&theme=cyberpunk&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Hassan Mostafa GitHub Trophies" />
 </div>
 
 ---
@@ -198,21 +198,21 @@ Hello! I am a passionate **AI Engineer** and AI student. Computer Science & AI S
     <tr>
       <td width="50%" align="center">
         <h4>📊 SYSTEM ACTIVITY & STATS</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=hassanmostafa&show_icons=true&theme=gotham&title_color=ff003c&icon_color=ff003c&text_color=ffffff&bg_color=050508&hide_border=true&border_radius=10" alt="Hassan Mostafa Github Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=hassanmostafa7sn&show_icons=true&theme=gotham&title_color=ff003c&icon_color=ff003c&text_color=ffffff&bg_color=050508&hide_border=true&border_radius=10" alt="Hassan Mostafa Github Stats" width="100%" />
       </td>
       <td width="50%" align="center">
         <h4>⚡ COGNITIVE STREAK</h4>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanmostafa&theme=gotham&currStreakNum=ff003c&currStreakLabel=ff003c&sideNums=ffffff&sideLabels=ffffff&dates=8e8e9f&background=050508&hide_border=true&ring=ff003c&fire=ff003c" alt="Hassan Mostafa Github Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanmostafa7sn&theme=gotham&currStreakNum=ff003c&currStreakLabel=ff003c&sideNums=ffffff&sideLabels=ffffff&dates=8e8e9f&background=050508&hide_border=true&ring=ff003c&fire=ff003c" alt="Hassan Mostafa Github Streak" width="100%" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <h4>📟 TOP LANGUAGES ENGINE</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmostafa&layout=compact&theme=gotham&title_color=ff003c&text_color=ffffff&bg_color=050508&hide_border=true&border_radius=10" alt="Hassan Mostafa Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmostafa7sn&layout=compact&theme=gotham&title_color=ff003c&text_color=ffffff&bg_color=050508&hide_border=true&border_radius=10" alt="Hassan Mostafa Top Languages" width="100%" />
       </td>
       <td width="50%" align="center">
         <h4>💻 REAL-TIME ACTIVITY GRID</h4>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanmostafa&bg_color=050508&color=ff003c&line=ff003c&point=ffffff&area=true&hide_border=true" alt="Hassan Mostafa Activity Graph" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanmostafa7sn&bg_color=050508&color=ff003c&line=ff003c&point=ffffff&area=true&hide_border=true" alt="Hassan Mostafa Activity Graph" width="100%" />
       </td>
     </tr>
   </table>
@@ -225,9 +225,9 @@ Hello! I am a passionate **AI Engineer** and AI student. Computer Science & AI S
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanmostafa/hassanmostafa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanmostafa/hassanmostafa/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/hassanmostafa/hassanmostafa/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanmostafa7sn/hassanmostafa7sn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanmostafa7sn/hassanmostafa7sn/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/hassanmostafa7sn/hassanmostafa7sn/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
