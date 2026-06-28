@@ -7,21 +7,18 @@
 <div align="center">
 
   <!-- Animated Cyberpunk Banner -->
-  <img src="assets/banner.svg" width="830" alt="Hassan Mostafa Cyberpunk Banner" />
+  <p align="center">
+  <!-- <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=FF003C&center=true&vCenter=true&width=900&lines=Hi,+I'm+Hassan+Mostafa;AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Developer;Full+Stack+Python+Developer"
+    alt="Typing SVG" /> -->
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:8B0000,100:FF0000&text=Hassan%20Mostafa&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=60"/>
+
+</p>
 
   <br />
 
   <!-- Visitor Counter & Dynamic Status Badges -->
-  <p align="center">
-    <img src="https://komarev.com/normal-badge/?username=hassanmostafa&color=ff003c&style=for-the-badge&label=NEURAL_VISITS" alt="Visitor Counter" />
-    <img src="https://img.shields.io/badge/NODE-ACTIVE-ff003c?style=for-the-badge&labelColor=0d1117&logo=linux&logoColor=ff003c" alt="Status" />
-    <img src="https://img.shields.io/badge/COGNITIVE_GEAR-SECURE-ff003c?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=ff003c" alt="Security Status" />
-  </p>
 
-  <!-- Typing Text Subtitle -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=500&height=40&lines=AI%20Engineer;MACHINE%20LEARNING%20SPECIALIST;FULL%20STACK%20DEVELOPER" alt="Typing Animation" />
-  </p>
 
   <!-- Social Terminals -->
   <p align="center">
