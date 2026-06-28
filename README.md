@@ -1,429 +1,282 @@
+<!--
+  SPDX-License-Identifier: MIT
+  Author: Hassan Mostafa (AI Engineer)
+  Theme: Cyberpunk Black & Red Neon
+-->
+
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Hassan Mostafa
+  <!-- Animated Cyberpunk Banner -->
+  <img src="assets/banner.svg" width="830" alt="Hassan Mostafa Cyberpunk Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Developer;Natural+Language+Processing;Full+Stack+Python+Developer;Always+Learning+New+Things..." />
+  <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:8B0000,100:FF0000&text=Hassan%20Mostafa&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=60"/>
+  <!-- Visitor Counter & Dynamic Status Badges -->
+  <p align="center">
+    <img src="https://komarev.com/normal-badge/?username=hassanmostafa&color=ff003c&style=for-the-badge&label=NEURAL_VISITS" alt="Visitor Counter" />
+    <img src="https://img.shields.io/badge/NODE-ACTIVE-ff003c?style=for-the-badge&labelColor=0d1117&logo=linux&logoColor=ff003c" alt="Status" />
+    <img src="https://img.shields.io/badge/COGNITIVE_GEAR-SECURE-ff003c?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=ff003c" alt="Security Status" />
+  </p>
+
+  <!-- Typing Text Subtitle -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=500&height=40&lines=AI%20Engineer;MACHINE%20LEARNING%20SPECIALIST;FULL%20STACK%20DEVELOPER" alt="Typing Animation" />
+  </p>
+
+  <!-- Social Terminals -->
+  <p align="center">
+    <a href="mailto:ai3semester5@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff003c&labelColor=0d1117" alt="Gmail" />
+    </a>
+    <a href="https://linkedin.com/in/hassanmostafa" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff003c&labelColor=0d1117" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/hassanmostafa" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=ff003c&labelColor=0d1117" alt="GitHub" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> <code>[INITIALIZE_SYSTEM_OVERVIEW]</code>
+
+```yaml
+Hassan Mostafa:
+  Role: AI Engineer
+  Focus: Machine Learning, Deep Learning, Computer Vision, NLP
+  Core_Directive: "Synthesizing computational frameworks with cognitive intelligence"
+```
+
+Hello! I am a passionate **AI Engineer** and AI student. Computer Science & AI Student focused on Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. Experienced as a Full Stack Python Developer building highly resilient architectures.
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> <code>[COGNITIVE_SKILL_MATRIX]</code>
+
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=hassanmostafa7sn&style=for-the-badge&color=red)](https://github.com/hassanmostafa7sn)
-
-[![Followers](https://img.shields.io/github/followers/hassanmostafa7sn?style=for-the-badge&color=red)](https://github.com/hassanmostafa7sn)
-
-[![Stars](https://img.shields.io/github/stars/hassanmostafa7sn?affiliations=OWNER&style=for-the-badge&color=black)](https://github.com/hassanmostafa7sn)
+  
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <h4 align="center">📟 CORE LANGUAGES</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ff003c&labelColor=0d1117" />
+        </p>
+      </td>
+      <td width="33%" valign="top">
+        <h4 align="center">🧠 AI & DEEP LEARNING</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&color=ff003c&labelColor=0d1117" />
+        </p>
+      </td>
+      <td width="33%" valign="top">
+        <h4 align="center">🧱 WEB & INFRASTRUCTURE</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=ff003c&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=ff003c&labelColor=0d1117" />
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
-# 💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="25" /> <code>[GITHUB_TROPHY_CASE]</code>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassanmostafa&theme=cyberpunk&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Hassan Mostafa GitHub Trophies" />
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/High%20Voltage.png" width="25" /> <code>[FEATURED_COMPUTATIONAL_PROJECTS]</code>
+
+<table width="100%">
+  <!-- Project proj-1 -->
+  <tr>
+    <td width="60%">
+      <h4>⚡ Resume Classification System</h4>
+      <p>An intelligence parser and machine learning classifier designed to categorize hundreds of engineering resumes. Employs NLP pipeline models, token embeddings, and fine-tuned classifiers to map resume content directly to specific organizational tech tracks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit-Learn-ff003c?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/ACCURACY-96.2%25-ff003c?style=for-the-badge&labelColor=0d1117" />
+    </td>
+  </tr>
+  
+  <!-- Project proj-2 -->
+  <tr>
+    <td width="60%">
+      <h4>⚡ Computer Vision Tracking System</h4>
+      <p>Deep Learning multi-object tracking system capable of real-time spatial path prediction. Integrates custom YOLO frames with advanced tracking filter architectures (Kalman Filters, DeepSORT) to persist IDs through intensive visual occlusions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer%20Vision-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-ff003c?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/INFERENCE-65%20FPS-ff003c?style=for-the-badge&labelColor=0d1117" />
+    </td>
+  </tr>
+  
+  <!-- Project proj-3 -->
+  <tr>
+    <td width="60%">
+      <h4>⚡ Sentiment Analysis Engine</h4>
+      <p>Large scale text sentiment engine powering real-time analytics streaming. Implements Custom recurrent architectures (LSTMs) and Attention-driven networks to detect contextual semantics, sarcasm, and emotional scores across global feeds.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Deep%20Learning-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-ff003c?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/STABILITY-98.8%25-ff003c?style=for-the-badge&labelColor=0d1117" />
+    </td>
+  </tr>
+  
+  <!-- Project proj-4 -->
+  <tr>
+    <td width="60%">
+      <h4>⚡ Clever Hans Sandbox</h4>
+      <p>An experimental harness implementing robust security testing for neural models. Tests networks against adversarial disturbances (FGSM, PGD attacks), assessing defense boundaries and analyzing structural vulnerability vectors.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Adversarial%20AI-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-ff003c?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/DEFENSE-SECURE-ff003c?style=for-the-badge&labelColor=0d1117" />
+    </td>
+  </tr>
+  
+  <!-- Project proj-5 -->
+  <tr>
+    <td width="60%">
+      <h4>⚡ Portfolio Website</h4>
+      <p>Highly tailored 3D interactive matrix demonstrating engineered products. Utilizes React, Three.js, and custom WebGL shaders styled inside a black-red cyberpunk aesthetic to represent active neural layers in real-time execution.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web%20Core-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-ff003c?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-ff003c?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/PERFORMANCE-100%25-ff003c?style=for-the-badge&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Analytics/Bar%20Chart.png" width="25" /> <code>[METRIC_DASHBOARD]</code>
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h4>📊 SYSTEM ACTIVITY & STATS</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=hassanmostafa&show_icons=true&theme=gotham&title_color=ff003c&icon_color=ff003c&text_color=ffffff&bg_color=050508&hide_border=true&border_radius=10" alt="Hassan Mostafa Github Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <h4>⚡ COGNITIVE STREAK</h4>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanmostafa&theme=gotham&currStreakNum=ff003c&currStreakLabel=ff003c&sideNums=ffffff&sideLabels=ffffff&dates=8e8e9f&background=050508&hide_border=true&ring=ff003c&fire=ff003c" alt="Hassan Mostafa Github Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h4>📟 TOP LANGUAGES ENGINE</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmostafa&layout=compact&theme=gotham&title_color=ff003c&text_color=ffffff&bg_color=050508&hide_border=true&border_radius=10" alt="Hassan Mostafa Top Languages" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <h4>💻 REAL-TIME ACTIVITY GRID</h4>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanmostafa&bg_color=050508&color=ff003c&line=ff003c&point=ffffff&area=true&hide_border=true" alt="Hassan Mostafa Activity Graph" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25" /> <code>[NEURAL_CONTRIBUTION_SNAKE]</code>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanmostafa/hassanmostafa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanmostafa/hassanmostafa/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/hassanmostafa/hassanmostafa/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="25" /> <code>[CODING_PHILOSOPHY]</code>
 
 ```python
-class HassanMostafa:
-
+class CognitiveEngine:
     def __init__(self):
-
-        self.name = "Hassan Mostafa"
-
-        self.location = "Egypt 🇪🇬"
-
-        self.role = "AI Engineer"
-
-        self.university = "Minia National University"
-
-        self.major = "Computer Science & Artificial Intelligence"
-
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "Java",
-            "C++",
-            "SQL"
-        ]
-
-        self.specialization = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Natural Language Processing",
-            "Full Stack Python"
-        ]
-
-        self.current_focus = [
-            "LLMs",
-            "PyTorch",
-            "Computer Vision",
-            "MLOps"
-        ]
-
-    def life(self):
-        return "Code -> Learn -> Build -> Repeat 🚀"
+        self.motivation = "Build AI systems that amplify human potential"
+        self.code_style = "Elegant, decoupled, resilient, extremely structured"
+        
+    def execute(self, challenge):
+        while not self.solved(challenge):
+            model = self.train_deep_model()
+            system = self.engineer_robust_backend()
+            self.optimize_low_level_tensors()
+        return "Pristine execution completed."
 ```
 
 ---
 
-## 🚀 What I'm Working On
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Compass.png" width="25" /> <code>[COGNITIVE_ROADMAP_&_TIMELINE]</code>
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁 Computer Vision
-- 💬 Natural Language Processing
-- 🌍 Full Stack Python
-- ⚙️ MLOps
-- 🔥 Open Source
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:hassanmostafa7sn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a>
-
-<a href="https://linkedin.com/in/hassan-mostafa-7sn">
-<img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hassanmostafa7sn">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 🔥 Philosophy
-
-> **"Every line of code brings me one step closer to building intelligent systems."**
-
-</div>
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35"/> Tech Stack
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,sql"/>
-</p>
-
-### 🤖 Artificial Intelligence
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-<img src="https://img.shields.io/badge/scikit--learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/NLP-black?style=for-the-badge&color=red"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs"/>
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
-
-### ⚙️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
-</p>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanmostafa7sn&show_icons=true&theme=transparent&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmostafa7sn&layout=compact&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hassanmostafa7sn&theme=highcontrast&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ffffff"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanmostafa7sn&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hassanmostafa7sn&theme=onestar&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-
-</div>
-
----
-
-# 📌 My Favorite Technologies
-
-<div align="center">
-
-| AI | Backend | Database | Tools |
-|:--:|:-------:|:--------:|:-----:|
-| 🤖 Machine Learning | 🐍 Django | 🗄 MySQL | 🐙 Git |
-| 👁 Computer Vision | ⚡ Flask | 💾 SQLite | 🐧 Linux |
-| 💬 NLP | 🌐 REST API | ☁ PostgreSQL | 🐳 Docker |
-| 🔥 Deep Learning | 🔗 APIs | 📊 SQL | ⚙ VS Code |
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-```text
-🚀 Master Computer Vision
-██████████░░░░░░░ 60%
-
-🧠 Learn Large Language Models
-████████░░░░░░░░░ 45%
-
-⚙ Master MLOps
-███████░░░░░░░░░░ 35%
-
-🌐 Become Senior Full Stack Developer
-█████████░░░░░░░░ 55%
+```mermaid
+gantt
+    title Hassan Mostafa AI & Engineering Timeline (2025-2027)
+    dateFormat  YYYY-MM-DD
+    section Neural Foundations
+    Deep Learning Mastery      :active, dl_mast, 2025-01-01, 2025-08-31
+    PyTorch & TF Architecture  :active, tf_arch, 2025-04-01, 2025-12-31
+    section Advanced Systems
+    Multi-Object Tracking (CV) :active, mot_cv, 2025-09-01, 2026-06-30
+    Large Language Fine-tuning :active, llm_ft, 2026-03-01, 2026-11-30
+    section Production Dev
+    Full Stack Python Systems  :active, py_sys, 2025-06-01, 2026-12-31
+    Adversarial AI Sanbox (Clever Hans) :active, ch_sb, 2026-05-01, 2027-02-28
 ```
 
----
-
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="32"/> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/hassanmostafa7sn">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanmostafa7sn&repo=Resume-Classification-System&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
-
-</a>
-
-<a href="https://github.com/hassanmostafa7sn">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanmostafa7sn&repo=CleverHans-CLIP&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
-
-</a>
-
-<a href="https://github.com/hassanmostafa7sn">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanmostafa7sn&repo=Sentiment-Analysis&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
-
-</a>
-
-<a href="https://github.com/hassanmostafa7sn">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanmostafa7sn&repo=Target-Tracking-System&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
-
-</a>
-
-</div>
-
----
-
-# ⚡ Development Workflow
-
-```text
-
-      ☕ Coffee
-
-          │
-
-          ▼
-
-      💡 Idea
-
-          │
-
-          ▼
-
-     📝 Research
-
-          │
-
-          ▼
-
-      💻 Coding
-
-          │
-
-          ▼
-
-      🧪 Testing
-
-          │
-
-          ▼
-
-     🚀 Deployment
-
-          │
-
-          ▼
-
-      🔁 Improve
-
-```
-
----
-
-# 🧠 AI Roadmap
-
-```text
-
-Machine Learning        ████████████████ 100%
-
-Deep Learning           ██████████████░ 90%
-
-Computer Vision         ████████████░░░ 80%
-
-Natural Language        ███████████░░░░ 75%
-
-LLMs                    ████████░░░░░░░ 55%
-
-MLOps                   ██████░░░░░░░░░ 40%
-
-Cloud AI                █████░░░░░░░░░░ 30%
-
-```
-
----
-
-# 📅 Coding Activity
-
-```text
-
-Monday      ██████████████
-
-Tuesday     ███████████
-
-Wednesday   ███████████████
-
-Thursday    ████████████
-
-Friday      █████████████████
-
-Saturday    ████████████████
-
-Sunday      ███████████
-
-```
-
----
-
-# 💻 Operating Systems
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,windows"/>
-
-</p>
-
----
-
-# 🔥 Current Tech Focus
-
-<div align="center">
-
-| 💻 Backend | 🤖 AI | ☁ Cloud | ⚙ Tools |
-|------------|-------|---------|----------|
-| Django | Machine Learning | Azure | Git |
-| Flask | Deep Learning | Docker | Linux |
-| REST API | Computer Vision | MLflow | VS Code |
-| FastAPI | NLP | Hugging Face | GitHub |
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-- 🧠 Transformers
-
-- 🔥 LLaMA
-
-- 🤖 GPT Architecture
-
-- 👁️ Vision Transformers
-
-- ⚙️ Distributed Training
-
-- ☁ Azure AI
-
-- 🚀 MLOps
-
----
-
-# 🎵 While Coding
-
-```text
-
-🎧 LoFi
-
-🎧 Phonk
-
-🎧 Epic Soundtracks
-
-🎧 Classical Piano
-
-```
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/hassanmostafa7sn/hassanmostafa7sn/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+#### 📍 CURRENT_LEARNING_FOCUS_NODE
+- 🚀 **Advanced Reinforcement Learning**: Studying PPO, SAC algorithms and custom multi-agent environments.
+- 🚀 **Parameter-Efficient LLM Customization (LoRA)**: Integrating PEFT tools to align foundational models with specific domains.
+- ⚙️ **Low-Level High-Performance CUDA Kernels**: Optimizing matrix operations in C++/CUDA to run natively on tensor cores.
 
 ---
 
 <div align="center">
-
-### ⭐ If you like my work, don't forget to Star my repositories ⭐
-
+  <!-- Cyberpunk Footer SVG -->
+  <img src="assets/footer.svg" width="830" alt="System Footer End Transmission" />
 </div>
-
----
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:FF0000,50:8B0000,100:000000"/>
