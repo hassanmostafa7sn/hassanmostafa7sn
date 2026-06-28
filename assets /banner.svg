@@ -1,8 +1,205 @@
-<!-- Animated SVG Banner for Hassan Mostafa -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 260" width="100%" height="100%">
-  <!-- Beautiful glowing gradient details and animations -->
-  <!-- Renders: HASSAN MOSTAFA // AI ENGINEER -->
+  <defs>
+    <!-- Dark Cyberpunk Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020204"/>
+      <stop offset="50%" stop-color="#080306"/>
+      <stop offset="100%" stop-color="#0d040a"/>
+    </linearGradient>
+    
+    <linearGradient id="neon-red-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff003c" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ff3366" stop-opacity="1"/>
+    </linearGradient>
+
+    <linearGradient id="cyber-cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff003c" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#ff003c" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <!-- Glowing Filters -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur1" />
+      <feGaussianBlur stdDeviation="2" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <filter id="soft-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Scanline Pattern -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#ff003c" stroke-width="0.3" stroke-opacity="0.08" />
+    </pattern>
+    
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ff003c" stroke-width="0.5" stroke-opacity="0.07" />
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes pulse-gasp {
+      0% { opacity: 0.8; }
+      50% { opacity: 0.3; }
+      100% { opacity: 0.8; }
+    }
+    @keyframes grid-travel {
+      0% { background-position: 0 0; }
+      100% { background-position: 0 30px; }
+    }
+    @keyframes glitch {
+      0% { transform: translate(0) skew(0deg); }
+      20% { transform: translate(-2px, 1px) skew(-0.5deg); }
+      40% { transform: translate(1px, -1px) skew(0.5deg); }
+      60% { transform: translate(-1px, 1px) skew(0deg); }
+      80% { transform: translate(2px, -1px) skew(0.5deg); }
+      100% { transform: translate(0) skew(0deg); }
+    }
+    @keyframes laser-sweep {
+      0% { translateY: -10px; opacity: 0; }
+      5% { opacity: 0.8; }
+      95% { opacity: 0.8; }
+      100% { translateY: 270px; opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes line-draw {
+      to { stroke-dashoffset: 0; }
+    }
+    
+    .pulsing { animation: pulse-gasp 4s infinite ease-in-out; }
+    .glitching { animation: glitch 3s infinite steps(2); }
+    .blinking { animation: blink 1.2s infinite steps(1); }
+    .sweep-line {
+      animation: laser-sweep 6s infinite ease-in-out;
+      transform-box: fill-box;
+    }
+    
+    .title-text {
+      font-family: 'Space Grotesk', 'Inter', system-ui, -apple-system, sans-serif;
+      font-weight: 800;
+      fill: #ffffff;
+      letter-spacing: 5px;
+    }
+    .accent-text {
+      font-family: 'JetBrains Mono', 'Fira Code', monospace;
+      font-weight: 500;
+      fill: #ff003c;
+      letter-spacing: 2px;
+      font-size: 11px;
+    }
+    .body-text {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      font-weight: 300;
+      fill: #8e8e9f;
+      letter-spacing: 1px;
+      font-size: 13px;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="830" height="260" fill="url(#bg-grad)" />
+
+  <!-- Grid Overlay -->
+  <rect width="830" height="260" fill="url(#grid)" />
+  
+  <!-- Scanline Overlay -->
+  <rect width="830" height="260" fill="url(#scanlines)" />
+
+  <!-- Subtle Ambient Glow Orbs -->
+  <circle cx="100" cy="80" r="140" fill="#ff003c" opacity="0.06" filter="blur(40px)" />
+  <circle cx="730" cy="180" r="160" fill="#ff003c" opacity="0.04" filter="blur(55px)" />
+
+  <!-- Cyberpunk Frame Corners -->
+  <!-- Top Left -->
+  <path d="M 15 45 L 15 15 L 45 15" fill="none" stroke="#ff003c" stroke-width="2.5" />
+  <rect x="20" y="20" width="5" height="5" fill="#ff003c" />
+  <!-- Top Right -->
+  <path d="M 815 45 L 815 15 L 785 15" fill="none" stroke="#ff003c" stroke-width="2.5" />
+  <rect x="805" y="20" width="5" height="5" fill="#ff003c" />
+  <!-- Bottom Left -->
+  <path d="M 15 215 L 15 245 L 45 245" fill="none" stroke="#ff003c" stroke-width="2.5" />
+  <rect x="20" y="235" width="5" height="5" fill="#ff003c" />
+  <!-- Bottom Right -->
+  <path d="M 815 215 L 815 245 L 785 245" fill="none" stroke="#ff003c" stroke-width="2.5" />
+  <rect x="805" y="235" width="5" height="5" fill="#ff003c" />
+
+  <!-- Cyberpunk Tech Accents & Details -->
+  <!-- Diagonal Trim -->
+  <path d="M 50 15 L 180 15 L 195 30 L 780 30" fill="none" stroke="#ff003c" stroke-width="0.8" stroke-opacity="0.3" />
+  <path d="M 50 245 L 635 245 L 650 230 L 780 230" fill="none" stroke="#ff003c" stroke-width="0.8" stroke-opacity="0.3" />
+  
+  <!-- Code Dots / Ornaments -->
+  <circle cx="215" cy="22" r="2.5" fill="#ff003c" opacity="0.5" />
+  <circle cx="225" cy="22" r="2.5" fill="#ff003c" opacity="0.5" />
+  <circle cx="235" cy="22" r="2.5" fill="#ff003c" opacity="0.5" />
+  <line x1="250" y1="22" x2="350" y2="22" stroke="#ff003c" stroke-width="1" stroke-opacity="0.3" />
+
+  <rect x="715" y="10" width="60" height="4" fill="#ff003c" opacity="0.3" />
+  
+  <!-- Left Side Bar Tech Element -->
+  <g transform="translate(35, 70)" opacity="0.4">
+    <rect x="0" y="0" width="4" height="120" fill="#ff003c" />
+    <rect x="8" y="10" width="2" height="40" fill="#ffffff" />
+    <rect x="8" y="60" width="2" height="20" fill="#ff003c" />
+    <text x="15" y="100" class="accent-text" font-size="7" transform="rotate(-90 15 100)" fill-opacity="0.7">SYSTEMS_ACTIVE</text>
+  </g>
+
+  <!-- Right Side Bar Tech Element -->
+  <g transform="translate(790, 70)" opacity="0.4">
+    <rect x="0" y="0" width="4" height="120" fill="#ff003c" />
+    <rect x="-6" y="70" width="2" height="40" fill="#ffffff" />
+    <rect x="-6" y="40" width="2" height="20" fill="#ff003c" />
+    <text x="-15" y="50" class="accent-text" font-size="7" transform="rotate(90 -15 50)" fill-opacity="0.7">ML_NODE_01</text>
+  </g>
+
+  <!-- Animated Laser Sweep line -->
+  <line class="sweep-line" x1="20" y1="0" x2="810" y2="0" stroke="#ff003c" stroke-width="1.5" opacity="0" filter="url(#neon-glow)" />
+
+  <!-- Main Content Group -->
+  <g transform="translate(75, 55)">
+    <!-- Tech Label -->
+    <text x="0" y="22" class="accent-text" filter="url(#soft-glow)">[INITIALIZE AI_ENGINEER_NODE]</text>
+    
+    <!-- Big Title (Name) with Red Neon Glow -->
+    <text x="0" y="72" class="title-text glitching" font-size="44" filter="url(#neon-glow)">
+      HASSAN MOSTAFA
+    </text>
+
+    <!-- Subtitle / Role -->
+    <g transform="translate(0, 105)">
+      <!-- Animated cursor -->
+      <rect x="0" y="-18" width="16" height="20" fill="#ff003c" opacity="0.9" filter="url(#soft-glow)" class="blinking" />
+      <text x="24" y="0" class="accent-text" font-size="18" fill="#ffffff" font-weight="700">
+        AI ENGINEER <tspan fill="#ff003c">//</tspan> MACHINE LEARNING SPECIALIST
+      </text>
+    </g>
+
+    <!-- Brief Focus Description -->
+    <text x="24" y="132" class="body-text">
+      Computer Science &amp; AI Student • ML / DL / CV / NLP
+    </text>
+
+    <!-- Decorative Bottom Console Details -->
+    <g transform="translate(24, 155)" opacity="0.8">
+      <rect x="0" y="0" width="12" height="6" fill="#ff003c" />
+      <rect x="18" y="0" width="12" height="6" fill="#ffffff" opacity="0.8" />
+      <rect x="36" y="0" width="12" height="6" fill="#ff003c" opacity="0.5" />
+      <text x="60" y="7" class="accent-text" font-size="9" fill="#8e8e9f" letter-spacing="1px">
+        COGNITIVE_COMPUTATION_ONLINE
+      </text>
+    </g>
+  </g>
+  
+  <!-- Subtle Framing Edge overlay -->
+  <rect x="10" y="10" width="810" height="240" fill="none" stroke="#ff003c" stroke-width="0.8" stroke-opacity="0.15" />
 </svg>
-
-
-
