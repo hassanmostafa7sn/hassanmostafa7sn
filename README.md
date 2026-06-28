@@ -107,6 +107,322 @@ class HassanMostafa:
 > **"Every line of code brings me one step closer to building intelligent systems."**
 
 </div>
+---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35"/> Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,sql"/>
+</p>
+
+### 🤖 Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://img.shields.io/badge/scikit--learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/NLP-black?style=for-the-badge&color=red"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+</p>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanmostafa7sn&show_icons=true&theme=transparent&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmostafa7sn&layout=compact&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hassanmostafa7sn&theme=highcontrast&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ffffff"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanmostafa7sn&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hassanmostafa7sn&theme=onestar&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+
+</div>
+
+---
+
+# 📌 My Favorite Technologies
+
+<div align="center">
+
+| AI | Backend | Database | Tools |
+|:--:|:-------:|:--------:|:-----:|
+| 🤖 Machine Learning | 🐍 Django | 🗄 MySQL | 🐙 Git |
+| 👁 Computer Vision | ⚡ Flask | 💾 SQLite | 🐧 Linux |
+| 💬 NLP | 🌐 REST API | ☁ PostgreSQL | 🐳 Docker |
+| 🔥 Deep Learning | 🔗 APIs | 📊 SQL | ⚙ VS Code |
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+```text
+🚀 Master Computer Vision
+██████████░░░░░░░ 60%
+
+🧠 Learn Large Language Models
+████████░░░░░░░░░ 45%
+
+⚙ Master MLOps
+███████░░░░░░░░░░ 35%
+
+🌐 Become Senior Full Stack Developer
+█████████░░░░░░░░ 55%
+```
+
+---
+
+---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="32"/> Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/hassanmostafa7sn">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanmostafa7sn&repo=Resume-Classification-System&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
+
+</a>
+
+<a href="https://github.com/hassanmostafa7sn">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanmostafa7sn&repo=CleverHans-CLIP&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
+
+</a>
+
+<a href="https://github.com/hassanmostafa7sn">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanmostafa7sn&repo=Sentiment-Analysis&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
+
+</a>
+
+<a href="https://github.com/hassanmostafa7sn">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hassanmostafa7sn&repo=Target-Tracking-System&theme=transparent&hide_border=true&title_color=ff0000&text_color=ffffff"/>
+
+</a>
+
+</div>
+
+---
+
+# ⚡ Development Workflow
+
+```text
+
+      ☕ Coffee
+
+          │
+
+          ▼
+
+      💡 Idea
+
+          │
+
+          ▼
+
+     📝 Research
+
+          │
+
+          ▼
+
+      💻 Coding
+
+          │
+
+          ▼
+
+      🧪 Testing
+
+          │
+
+          ▼
+
+     🚀 Deployment
+
+          │
+
+          ▼
+
+      🔁 Improve
+
+```
+
+---
+
+# 🧠 AI Roadmap
+
+```text
+
+Machine Learning        ████████████████ 100%
+
+Deep Learning           ██████████████░ 90%
+
+Computer Vision         ████████████░░░ 80%
+
+Natural Language        ███████████░░░░ 75%
+
+LLMs                    ████████░░░░░░░ 55%
+
+MLOps                   ██████░░░░░░░░░ 40%
+
+Cloud AI                █████░░░░░░░░░░ 30%
+
+```
+
+---
+
+# 📅 Coding Activity
+
+```text
+
+Monday      ██████████████
+
+Tuesday     ███████████
+
+Wednesday   ███████████████
+
+Thursday    ████████████
+
+Friday      █████████████████
+
+Saturday    ████████████████
+
+Sunday      ███████████
+
+```
+
+---
+
+# 💻 Operating Systems
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
+
+</p>
+
+---
+
+# 🔥 Current Tech Focus
+
+<div align="center">
+
+| 💻 Backend | 🤖 AI | ☁ Cloud | ⚙ Tools |
+|------------|-------|---------|----------|
+| Django | Machine Learning | Azure | Git |
+| Flask | Deep Learning | Docker | Linux |
+| REST API | Computer Vision | MLflow | VS Code |
+| FastAPI | NLP | Hugging Face | GitHub |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- 🧠 Transformers
+
+- 🔥 LLaMA
+
+- 🤖 GPT Architecture
+
+- 👁️ Vision Transformers
+
+- ⚙️ Distributed Training
+
+- ☁ Azure AI
+
+- 🚀 MLOps
+
+---
+
+# 🎵 While Coding
+
+```text
+
+🎧 LoFi
+
+🎧 Phonk
+
+🎧 Epic Soundtracks
+
+🎧 Classical Piano
+
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/hassanmostafa7sn/hassanmostafa7sn/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to Star my repositories ⭐
+
+</div>
+
+---
 
 ---
 
