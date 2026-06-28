@@ -24,7 +24,7 @@
 
   <!-- Social Terminals -->
   <p align="center">
-    <a href="mailto:ai3semester5@gmail.com">
+    <a href="hassanmostafa7sn@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff003c&labelColor=0d1117" alt="Gmail" />
     </a>
     <a href="https://linkedin.com/in/hassanmostafa" target="_blank">
